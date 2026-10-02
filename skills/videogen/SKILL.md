@@ -7,6 +7,11 @@ description: Create, edit, caption, and export videos or generate media through 
 
 Use the hosted VideoGen tools to produce media and downloadable videos.
 
+If the host has no VideoGen MCP connection, configure the remote HTTP endpoint
+`https://mcp.videogen.io/mcp` in its MCP settings and complete OAuth sign-in.
+Installing this standalone skill does not install the connector. Setup and
+service details: https://videogen.io/videogen-mcp.
+
 ## Connect and discover
 
 Call `get_me` to check the connection. If authentication is required, ask the
