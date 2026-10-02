@@ -1,7 +1,7 @@
 {
   "name": "videogen",
   "version": "1.0.0",
-  "description": "Create, edit, and export product ads, narrated videos, and media with VideoGen.",
+  "description": "AI video generator and AI video editor. Go from text to video, image to video, or script to video, then export an MP4.",
   "author": {
     "name": "VideoGen",
     "email": "support@videogen.io",
@@ -10,9 +10,12 @@
   "homepage": "https://videogen.io/videogen-mcp",
   "license": "MIT",
   "keywords": [
-    "videogen",
-    "videogen mcp",
-    "videogen video"
+    "ai video editor",
+    "ai video generator",
+    "image to video",
+    "script to video",
+    "text to video",
+    "videogen"
   ],
   "repository": "https://github.com/video-gen/videogen-plugins",
   "skills": "./skills/",

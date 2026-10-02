@@ -1,8 +1,17 @@
-# VideoGen agent plugin
+# VideoGen - AI Video Generator
 
-The official [VideoGen](https://videogen.io/videogen-mcp) plugin for Cursor,
-Gemini CLI, and Codex-compatible hosts. Create product ads, narrated videos,
-and individual media, then caption, edit, and export an MP4.
+Generate professional, editable AI videos and media directly in Cursor,
+Gemini CLI, and Codex-compatible hosts with your VideoGen account.
+
+Go from text to video, image to video, or script to video with
+[VideoGen’s AI video generator](https://videogen.io/videogen-mcp). Then edit
+and remix your projects in VideoGen’s AI video editor.
+
+Turn a narration script, uploaded voiceover, PDF/slideshow, or scene-by-scene
+storyboard into a multi-scene video with AI visuals and captions. Create
+images, video clips, voiceovers, music, sound effects, motion graphics, and
+talking-head avatars. Add captions and transitions, animate stills, and
+export MP4 downloads.
 
 ## Install
 

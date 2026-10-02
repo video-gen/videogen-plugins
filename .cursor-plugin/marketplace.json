@@ -12,7 +12,7 @@
     {
       "name": "videogen",
       "source": "./",
-      "description": "Create, edit, and export videos with VideoGen."
+      "description": "AI video generator and AI video editor. Go from text to video, image to video, or script to video, then export an MP4."
     }
   ]
 }

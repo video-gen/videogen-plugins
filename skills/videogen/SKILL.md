@@ -1,6 +1,6 @@
 ---
 name: videogen
-description: Create, edit, caption, and export videos or generate media through the VideoGen MCP connector when the user asks to use VideoGen.
+description: Use VideoGen’s AI video generator and AI video editor for text to video, image to video, or script to video. Create, edit, caption, and export AI videos and media when the user asks to use VideoGen.
 ---
 
 # VideoGen
