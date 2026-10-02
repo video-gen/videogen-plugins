@@ -1,0 +1,10 @@
+{
+  "name": "videogen",
+  "version": "1.0.0",
+  "description": "Create, edit, and export product ads, narrated videos, and media with VideoGen.",
+  "mcpServers": {
+    "videogen": {
+      "httpUrl": "https://mcp.videogen.io/mcp?vg_client=gemini"
+    }
+  }
+}

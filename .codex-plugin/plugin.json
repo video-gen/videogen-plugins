@@ -1,0 +1,36 @@
+{
+  "name": "videogen",
+  "version": "1.0.0",
+  "description": "Create, edit, and export product ads, narrated videos, and media with VideoGen.",
+  "author": {
+    "name": "VideoGen",
+    "email": "support@videogen.io",
+    "url": "https://github.com/video-gen"
+  },
+  "homepage": "https://videogen.io/videogen-mcp",
+  "license": "MIT",
+  "keywords": [
+    "videogen",
+    "videogen mcp",
+    "videogen video"
+  ],
+  "repository": "https://github.com/video-gen/videogen-plugins",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "VideoGen",
+    "shortDescription": "Create, edit, and export product ads, narrated videos, and media with VideoGen.",
+    "developerName": "VideoGen",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://videogen.io/videogen-mcp",
+    "defaultPrompt": [
+      "Use VideoGen to create a 15-second vertical product ad, add captions, and export an MP4."
+    ],
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}
